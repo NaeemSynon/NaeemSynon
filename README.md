@@ -232,7 +232,7 @@ Practical experiments around monitoring network infrastructure and identifying i
                             │
           ┌─────────────────┼─────────────────┐
           │                 │                 │
-     Observability       Automation       Security
+     Observability      Automation        Security
           │                 │                 │
           └─────────────────┼─────────────────┘
                             │
