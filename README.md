@@ -190,7 +190,7 @@ A collection of practical network engineering labs demonstrating enterprise rout
 
 ### 🤖 Network Automation Lab
 
-**Focus:** Python • Bash • Network Automation
+**Focus:** Python • Bash • Network Automation • IaC
 
 Experiments and practical scripts designed to reduce repetitive network administration tasks.
 
