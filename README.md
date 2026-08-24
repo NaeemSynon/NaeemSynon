@@ -103,6 +103,15 @@ I'm particularly interested in building the next generation of network operation
   <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA"/>
 </a>
 
+<a href="https://https://training.fortinet.com">
+  <img src="https://img.shields.io/badge/Fortinet-NSE 3-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet NSE 3"/>
+</a>
+
+<a href="https://certification-learning.hpe.com/tr/certifications?technologies=Networking">
+  <img src="https://img.shields.io/badge/hewlettpackardenterprise-HPE aruba-01A982?style=for-the-badge&logo=hewlettpackardenterprise&logoColor=white" alt="HPE aruba"/>
+</a>
+
+
 ### ☁️ Microsoft
 
 <a href="https://learn.microsoft.com/credentials/certifications/security-compliance-and-identity-fundamentals/">
