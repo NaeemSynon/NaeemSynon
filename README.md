@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Naeem Synon
 
-### Senior Network Engineer | Network & Infrastructure | Fortinet | Cisco | Aruba | Meraki | SD-WAN | Automation
+### Senior Network Engineer | Network & Infrastructure | Fortinet | Cisco | Aruba | Meraki | Switching & Routing | SD-WAN | Automation
 
 <p align="left">
   <a href="https://github.com/"><img src="https://img.shields.io/badge/Network%20Engineering-0A0A0A?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Engineering"/></a>
