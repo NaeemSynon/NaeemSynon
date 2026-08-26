@@ -17,7 +17,7 @@ I'm a **Senior Network Engineer** with **5+ years of experience** supporting net
 
 My experience spans the full lifecycle of network operations — from incident, request and change management through troubleshooting, root-cause analysis, infrastructure monitoring, maintenance and continuous service improvement.
 
-I work primarily across **Fortinet, Cisco, Aruba and Meraki** environments, with hands-on exposure to **routing, switching, LAN/WAN, SD-WAN, VPN, TCP/IP, DNS, DHCP, VLANs and network monitoring**.
+I work primarily across **Fortinet, Cisco, Aruba and Meraki** environments, with hands-on exposure to **routing, switching, LAN/WAN, NAS/SAN, SD-WAN, VPN, TCP/IP, DNS, DHCP, VLANs and network monitoring**.
 
 I'm particularly interested in building the next generation of network operations through **automation, observability, AIOps and proactive service management**.
 
