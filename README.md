@@ -289,7 +289,7 @@ The Open University of Sri Lanka
 
 ### 💡 Currently Interested In
 
-`Network Automation` · `AIOps` · `Network Security` · `SD-WAN` · `Observability` · `Cloud Networking` · `Infrastructure as Code` · `Python` · `PaaS`
+`Network Automation` · `AIOps` · `Network Security` · `SD-WAN` · `Cisco Meraki` · `Observability` · `Cloud Networking` · `Infrastructure as Code` · `Python` · `PaaS`
 
 ---
 
