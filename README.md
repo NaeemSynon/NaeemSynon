@@ -150,7 +150,7 @@ I'm particularly interested in building the next generation of network operation
 | **Monitoring**    | Network & Infrastructure Monitoring, Event Management |
 | **Operations**    | ITIL, Incident, Request & Change Management           |
 | **Documentation** | SOPs, Knowledge Bases, Technical Documentation        |
-| **Systems**       | Windows Server, Linux                                 |
+| **Systems**       | Windows Server, Linux, Ubuntu                         |
 | **Collaboration** | Jira, Confluence, Slack                               |
 
 ---
