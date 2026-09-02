@@ -146,7 +146,7 @@ I'm particularly interested in building the next generation of network operation
 | **Security**      | FortiGate, FortiManager, FortiAnalyzer                |
 | **WAN**           | WAN, SD-WAN, IPsec, SSL VPN                           |
 | **Core Services** | DNS, DHCP                                             |
-| **Automation**    | Python, Bash, PowerShell                              |
+| **Automation**    | Python, Bash, PowerShell, Putty                       |
 | **Monitoring**    | Network & Infrastructure Monitoring, Event Management |
 | **Operations**    | ITIL, Incident, Request & Change Management           |
 | **Documentation** | SOPs, Knowledge Bases, Technical Documentation        |
