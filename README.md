@@ -145,9 +145,9 @@ I'm particularly interested in building the next generation of network operation
 | **Switching**     | VLAN, TCP/IP, NAT                                     |
 | **Security**      | FortiGate, FortiManager, FortiAnalyzer                |
 | **WAN**           | WAN, SD-WAN, IPsec, SSL VPN                           |
-| **Core Services** | DNS, DHCP                                             |
+| **Core Services** | DNS, DHCP, SNMPv3/v2                                             |
 | **Automation**    | Python, Bash, PowerShell, Putty                       |
-| **Monitoring**    | Network & Infrastructure Monitoring, Event Management |
+| **Monitoring**    | Network & Infrastructure Monitoring, Event Management, PRTG |
 | **Operations**    | ITIL, Incident, Request & Change Management           |
 | **Documentation** | SOPs, Knowledge Bases, Technical Documentation        |
 | **Systems**       | Windows Server, Linux, Ubuntu                         |
