@@ -151,7 +151,43 @@ Real-world automation work behind these ideas (see CV for detail):
 
 ## 🏆 Certifications
 
-**Zapier** MCP & AI LLM Agent · **n8n** Workflows & LLM Agents · **ITIL & ITSM** · **PMP®** (PMI)
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://cdn.simpleicons.org/zapier/FF4F00" width="56" height="56" alt="Zapier"/><br/>
+      <b>Zapier</b><br/>
+      <sub>MCP & AI LLM Agent</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Certified-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier certified"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="56" height="56" alt="n8n"/><br/>
+      <b>n8n</b><br/>
+      <sub>Workflows & LLM Agents</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Certified-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n certified"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="56" height="56" alt="LinkedIn Learning"/><br/>
+      <b>ITIL & ITSM</b><br/>
+      <sub>via LinkedIn Learning</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Certified-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="ITIL ITSM certified"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/PMP®-0B3D91?style=for-the-badge&logoColor=white" height="56" alt="PMP"/><br/>
+      <b>Project Management Professional</b><br/>
+      <sub>Project Management Institute (PMI)</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Certified-0B3D91?style=for-the-badge" alt="PMP certified"/>
+    </td>
+  </tr>
+</table>
+
+![Zapier](https://img.shields.io/badge/Zapier_MCP-FF4F00?style=flat-square&logo=zapier&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n_Agents-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![ITIL](https://img.shields.io/badge/ITIL-ITSM-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+![PMP](https://img.shields.io/badge/PMP®-0B3D91?style=flat-square)
+
+</div>
 
 ---
 
