@@ -1,298 +1,167 @@
-# 👋 Hi, I'm Naeem Synon
+<div align="center">
 
-### Senior Network Engineer | Network & Infrastructure | Fortinet | Cisco | Aruba | Meraki | Switching & Routing | SD-WAN | Automation
+# 🏛️ Verifiable AI for Architectural Visualization & Automation
 
-<p align="left">
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/Network%20Engineering-0A0A0A?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Engineering"/></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet"/></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/Automation-6A5ACD?style=for-the-badge&logo=python&logoColor=white" alt="Automation"/></a>
-</p>
+### Naeem Synon · AI Automation Engineer · Architectural Visualization Specialist
 
----
+*AI-assisted renders and drawings you can reproduce, verify, and trust.*
 
-## 🧑‍💻 About Me
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_MCP-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-I'm a **Senior Network Engineer** with **5+ years of experience** supporting network, infrastructure, security and connectivity services across **Managed Services Provider (MSP) and enterprise environments**.
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-8A2BE2?style=flat-square)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-1F6FEB?style=flat-square)
+![ControlNet](https://img.shields.io/badge/ControlNet-0A7E8C?style=flat-square)
+![OpenUSD](https://img.shields.io/badge/OpenUSD-3B3B3B?style=flat-square)
+![BIM](https://img.shields.io/badge/BIM-IFC-success?style=flat-square)
+![HITL](https://img.shields.io/badge/Human--in--the--Loop-QA-critical?style=flat-square)
 
-My experience spans the full lifecycle of network operations — from incident, request and change management through troubleshooting, root-cause analysis, infrastructure monitoring, maintenance and continuous service improvement.
+`SketchUp` · `AutoCAD` · `Rhino` · `Revit` · `Archicad` · `V-Ray` · `Corona` · `Enscape` · `Lumion` · `Twinmotion`
 
-I work primarily across **Fortinet, Cisco, Aruba and Meraki** environments, with hands-on exposure to **routing, switching, LAN/WAN, NAS/SAN, SD-WAN, VPN, TCP/IP, DNS, DHCP, VLANs and network monitoring**.
-
-I'm particularly interested in building the next generation of network operations through **automation, observability, AIOps and proactive service management**.
-
-> **Network Engineer by profession. Automation enthusiast by mindset. Continuous learner by choice.**
-
----
-
-## 🚀 What I Work With
-
-### 🌐 Networking
-
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square\&logo=cisco\&logoColor=white)
-![Aruba](https://img.shields.io/badge/Aruba-0095D9?style=flat-square\&logo=aruba\&logoColor=white)
-![Meraki](https://img.shields.io/badge/Cisco%20Meraki-000000?style=flat-square\&logo=cisco\&logoColor=white)
-![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square\&logo=fortinet\&logoColor=white)
-
-* Routing & Switching
-* OSPF
-* BGP
-* TCP/IP
-* VLANs
-* NAT
-* DNS / DHCP
-* LAN / WAN
-* SD-WAN
-* IPsec / SSL VPN
-* Network troubleshooting
-* WAN connectivity & carrier coordination
-
-### 🔐 Network Security
-
-* Fortinet Security Fabric
-* FortiGate
-* FortiManager
-* FortiAnalyzer
-* Firewall policy auditing
-* VPN technologies
-* Network security troubleshooting
-* Secure connectivity
-* Security-focused incident response
-
-### 📊 Monitoring & Operations
-
-* Network monitoring
-* Infrastructure observability
-* Event management
-* Performance monitoring
-* Bottleneck identification
-* Proactive alert management
-* SLA / KPI management
-* Incident & escalation management
-* Root Cause Analysis
-* ITIL Incident, Request & Change Management
-
-### ⚙️ Automation & Engineering
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square\&logo=gnubash\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-
-* Python scripting
-* Bash scripting
-* Network configuration automation
-* Configuration backups
-* Process automation
-* Infrastructure documentation
-* SOP development
-* Knowledge-base development
-* Continuous service improvement
+</div>
 
 ---
 
-# 🏆 Certifications
+## 👋 About
 
-### 🌐 Networking
+I build automation that makes **architectural visualization faster without letting AI quietly change the design**.
 
-<a href="https://www.comptia.org/certifications/network">
-  <img src="https://img.shields.io/badge/CompTIA-Network%2B-red?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Network+"/>
-</a>
-
-<a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html">
-  <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA"/>
-</a>
-
-<a href="https://https://training.fortinet.com">
-  <img src="https://img.shields.io/badge/Fortinet-NSE 3-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet NSE 3"/>
-</a>
-
-<a href="https://certification-learning.hpe.com/tr/certifications?technologies=Networking">
-  <img src="https://img.shields.io/badge/hewlettpackardenterprise-HPE aruba-01A982?style=for-the-badge&logo=hewlettpackardenterprise&logoColor=white" alt="HPE aruba"/>
-</a>
-
-
-### ☁️ Microsoft
-
-<a href="https://learn.microsoft.com/credentials/certifications/security-compliance-and-identity-fundamentals/">
-  <img src="https://img.shields.io/badge/Microsoft-SC--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft SC-900"/>
-</a>
-
-<a href="https://learn.microsoft.com/credentials/certifications/azure-network-engineer-associate/">
-  <img src="https://img.shields.io/badge/Microsoft-AZ--700-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft AZ-700"/>
-</a>
-
-### 🏢 Service Management
-
-<a href="https://www.peoplecert.org/">
-  <img src="https://img.shields.io/badge/ITIL-v4-6A1B9A?style=for-the-badge" alt="ITIL v4"/>
-</a>
-
-### 📈 Process Improvement
-
-<a href="https://www.skillsoft.com/">
-  <img src="https://img.shields.io/badge/Lean%20Six%20Sigma-Green%20Belt-2E7D32?style=for-the-badge" alt="Lean Six Sigma Green Belt"/>
-</a>
+- 🎨 **5 years** of architectural visualization: photorealistic stills, animations, and real-time walkthroughs
+- 🤖 **3 years** building AI-assisted and automated production pipelines
+- 🎓 BSc (Hons) Computer Science, Open University of Sri Lanka (2026), thesis: *Verifiable Generative Visualization: A Software-Engineering Framework for AI-Assisted Architectural Visualization*
+- 🖥️ Diploma in IT (Computer-Aided Design Software), Pearson UK
+- 🌍 Remote since 2024, working with US teams across time zones
 
 ---
 
-# 🛠️ Technical Toolbox
+## 🧭 The Core Idea
 
-| Area              | Technologies                                          |
-| ----------------- | ----------------------------------------------------- |
-| **Networking**    | Cisco, Aruba, Meraki, Fortinet                        |
-| **Routing**       | OSPF, BGP, Static Routing                             |
-| **Switching**     | VLAN, TCP/IP, NAT                                     |
-| **Security**      | FortiGate, FortiManager, FortiAnalyzer                |
-| **WAN**           | WAN, SD-WAN, IPsec, SSL VPN                           |
-| **Core Services** | DNS, DHCP, SNMPv3/v2                                             |
-| **Automation**    | Python, Bash, PowerShell, PuTTY                       |
-| **Monitoring**    | Network & Infrastructure Monitoring, Event Management, PRTG, RMM |
-| **Operations**    | ITIL, Incident, Request & Change Management           |
-| **Documentation** | SOPs, Knowledge Bases, Technical Documentation        |
-| **Systems**       | Windows Server, Linux, Ubuntu                         |
-| **Collaboration** | Jira, Confluence, Slack                               |
-
----
-
-# 📂 Featured Projects
-
-> 🚧 This section is continuously evolving as I build and document practical network engineering projects.
-
-### 🔥 FortiGate Network Security Lab
-
-**Focus:** Firewalling • VPN • Security Policies • SD-WAN
-
-A practical lab environment focused on designing and troubleshooting enterprise firewall and secure connectivity scenarios.
-
-**Topics:**
-
-* FortiGate configuration
-* Firewall policies
-* IPsec VPN
-* SSL VPN
-* SD-WAN
-* Routing
-* High availability concepts
-* Security troubleshooting
-
----
-
-### 🌐 Enterprise Routing & Switching Lab
-
-**Focus:** Cisco • Routing • Switching • OSPF • BGP
-
-A collection of practical network engineering labs demonstrating enterprise routing and switching concepts.
-
-**Topics:**
-
-* VLANs
-* Inter-VLAN routing
-* OSPF
-* BGP
-* NAT
-* DHCP
-* Network segmentation
-* Troubleshooting
-
----
-
-### 🤖 Network Automation Lab
-
-**Focus:** Python • Bash • Network Automation • IaC
-
-Experiments and practical scripts designed to reduce repetitive network administration tasks.
-
-**Projects may include:**
-
-* Automated configuration backups
-* Device inventory
-* Configuration validation
-* Network health checks
-* CLI automation
-* Log analysis
-* Automated reporting
-
----
-
-### 📡 Network Monitoring & Observability Lab
-
-**Focus:** Monitoring • Metrics • Alerts • Troubleshooting
-
-Practical experiments around monitoring network infrastructure and identifying issues before they affect users.
-
-**Topics:**
-
-* Availability monitoring
-* Performance metrics
-* Event management
-* Alerting
-* Baseline monitoring
-* Root Cause Analysis
-
----
-
-# 📈 Engineering Philosophy
-
-```text
-                 ┌─────────────────────┐
-                 │ Network Reliability │
-                 └──────────┬──────────┘
-                            │
-          ┌─────────────────┼─────────────────┐
-          │                 │                 │
-     Observability      Automation        Security
-          │                 │                 │
-          └─────────────────┼─────────────────┘
-                            │
-                   Continuous Improvement
-                            │
-                      Better Operations
+```mermaid
+flowchart LR
+    A[3D Model<br/>SketchUp · Rhino · Revit · Blender] --> B[AI-Assisted Render<br/>Stable Diffusion · ComfyUI · ControlNet]
+    A --> C[3D → 2D Documentation<br/>Plans · Elevations · Sections]
+    B --> D{Geometry Guard<br/>Drift Check}
+    C --> D
+    D -- pass --> E[Provenance Manifest<br/>seed · model · prompt · hash · commit]
+    D -- fail --> F[Human-in-the-Loop Review]
+    F --> B
+    E --> G[Approved Deliverable]
 ```
 
-I believe modern network engineering is moving beyond simply **keeping devices online**.
+---
 
-The goal is to build infrastructure that is:
+## 🚀 Featured Projects
 
-**Reliable → Observable → Secure → Automated → Scalable**
+### 1️⃣ Provenance-Stamped Render Pipeline
+> *Can an AI-assisted render be reproduced exactly?*
+
+A **Blender Python** pipeline that renders a scene and writes a **manifest** beside every image.
+
+| Recorded in the manifest | Why it matters |
+|---|---|
+| Model and version | Know exactly what produced the image |
+| Seed and prompt | Deterministic regeneration |
+| Render settings | Consistent quality across views |
+| Hash of the config | Detect silent changes |
+| Git commit of the source scene | Trace the image back to the approved model |
+
+A second script reads a manifest and **regenerates the identical image**.
+**Measured:** reproducibility rate and time to rebuild an old image from its manifest alone.
+
+`Python` `Blender` `Git` `Reproducibility` `Provenance` `Render Pipeline`
 
 ---
 
-# 🎓 Education
+### 2️⃣ Geometry Guard: Automated AI-Drift Checker
+> *Catch the moment an AI image or generated scene quietly changes the design.*
 
-🎓 **Bachelor's in Computer Systems (Hons)**
-The Open University of Sri Lanka
+Takes one source model (e.g., a small house exported to **OpenUSD**), generates variants two ways:
 
----
+- 🖼️ **Diffusion** with depth and edge conditioning (ControlNet)
+- 📝 **LLM-written scene scripts**
 
-# 📊 GitHub Activity
+then verifies each variant against the source and flags:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaeemSynon&show_icons=true&theme=transparent&hide_border=true" alt="Naeem's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaeemSynon&theme=transparent&hide_border=true" alt="GitHub Streak"/>
-</p>
+- ✅ Changed element counts (windows, doors)
+- ✅ Dimensional deviations
+- ✅ Implausible material values
+- ✅ Camera and scale errors
 
----
+**Measured:** errors caught by the tool versus errors caught by people.
 
-# 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/naeem-synon-bba334229">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:naeemsynon123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+`OpenUSD` `ControlNet` `Stable Diffusion` `LLM` `Verification` `QA Automation` `Geometry Validation`
 
 ---
 
-### 💡 Currently Interested In
+## 💼 Production Automation Experience
 
-`Network Automation` · `AIOps` · `Network Security` · `SD-WAN` · `Cisco Meraki` · `Observability` · `Cloud Networking` · `Infrastructure as Code` · `Python` · `PaaS`
+Real-world automation work behind these ideas (see CV for detail):
+
+| Area | Outcome |
+|---|---|
+| **Support triage** (n8n + Claude agent) | ~1,500 tickets/month routed; first response **4 hrs → 12 min**; ~120 hrs/month saved |
+| **Invoice processing** (Claude extraction + Zapier) | 100+ invoices/month at **96% accuracy**; handling **15 min → <1 min** |
+| **RAG knowledge assistant** | Over 2,000+ docs, ~90% answer accuracy, **35% less handling time**, SOPs updated |
+| **Reliability and guardrails** | Retries, alerting, output validation, approval gates, HITL; **99%+ success** over 1,000+ monthly runs; ~80% fewer unsupported responses |
+| **Cost optimization** | Prompt, model, and caching tuning, **~40% lower LLM spend** |
+| **Vendor onboarding** (Make) | **10 days → 3 days** across ~250 vendors/year |
+| **Incident workflows** | Time-to-engage **30 → 5 min**; alerts to 500+ recipients in <10 sec |
 
 ---
 
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
+## 🛠️ Tech Stack
+
+| Domain | Tools |
+|---|---|
+| **Visualization** | Blender · Rhino · SketchUp · Revit · Archicad · V-Ray · Corona · Unreal Engine 5 · Twinmotion · Enscape · Lumion |
+| **Generative AI** | Stable Diffusion · ComfyUI · ControlNet · LoRA training · Midjourney · Prompt engineering · Claude · OpenAI APIs · RAG · MCP |
+| **Automation & Pipelines** | Python · Grasshopper · Dynamo · MaxScript · n8n · Make · Zapier · REST APIs · Git · IFC · BIM coordination · Render farm management |
+| **Post-production** | Photoshop · Lightroom · After Effects · DaVinci Resolve |
+| **Enterprise** | SAP · Salesforce · ITIL/ITSM · Agile · CI/CD |
+| **Interests** | PBR materials · Photogrammetry · Real-time rendering · Workflow optimization · Scalable pipelines |
+
+---
+
+## 🧪 Principles I Build By
+
+1. **Automate the repetitive 80%.** Put human checkpoints on dimensions and details.
+2. **Every output is traceable.** If it can't be reproduced, it can't be trusted.
+3. **Measure everything.** Time saved, accuracy, error rate, cost.
+4. **Document as you build.** SOPs and clear handoffs so teams actually adopt the tools.
+5. **Millimeter-level accuracy is a requirement, not a stretch goal.**
+
+---
+
+## 📁 Repository Structure
+
+```
+├── provenance-render-pipeline/    # Blender Python render + manifest + replay scripts
+├── geometry-guard/                # AI-drift verification tool (OpenUSD, diffusion, LLM scripts)
+├── automation-workflows/          # n8n / Make / Zapier workflow exports (sanitized)
+├── sop-templates/                 # SOP and QA checklist templates
+└── docs/                          # Thesis summary, diagrams, results
+```
+
+---
+
+## 🏆 Certifications
+
+**Zapier** MCP & AI LLM Agent · **n8n** Workflows & LLM Agents · **ITIL & ITSM** · **PMP®** (PMI)
+
+---
+
+## 📬 Let's Connect
+
+- 📧 naeemsynon123@gmail.com
+- 💼 [LinkedIn](#) · 🐙 [GitHub](#)
+
+<div align="center">
+
+*Architectural Visualization · AI Automation · BIM · Generative AI · Workflow Automation · QA · SOPs*
+
+</div>
