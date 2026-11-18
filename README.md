@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🏛️ Verifiable AI for Architectural Visualization & Automation
+# 🏛️ Naeem Synon
 
-### Naeem Synon · AI Automation Engineer · Architectural Visualization Specialist
+### AI Automation Engineer · Architectural Visualization Specialist
 
 *AI-assisted renders and drawings you can reproduce, verify, and trust.*
 
